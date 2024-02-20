@@ -20,7 +20,7 @@ analytics:
     tracking_id: "G-J74VWE1VCF"
 
 # https://giscus.app/
-repository  : "dustyroom-studio/ai-moderation-doc"
+repository  : "Dustyroom/ai-moderation-doc"
 comments:
   provider: "giscus"
   giscus:
