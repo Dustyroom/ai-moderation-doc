@@ -3,13 +3,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "AI Toolbox for ChatGPT and DALL·E"
-title_short: "AI Toolbox"
+title: "AI Moderation"
+title_short: "AI Moderation"
 og_image: /assets/images/banners/sg-banner-1.png
 masthead_title: " " # Disable title on masthead because the graphic logo has the title.
 email: info@dustyroom.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Pro-grade outline image effect in Unity.
+  AI-assisted toxisity and moderation tools detection for Unity.
 twitter_username: _dstrm
 minimal_mistakes_skin: air
 search: true
@@ -17,19 +17,20 @@ search: true
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-FX4K2YZZE0"
+    tracking_id: "G-J74VWE1VCF"
 
 # https://giscus.app/
-repository  : "Dustyroom/ai-toolbox-doc"
+repository  : "dustyroom-studio/ai-moderation-doc"
 comments:
   provider: "giscus"
   giscus:
-    repo_id              : "R_kgDOJQ5ldw"
+    repo_id              : "R_kgDOLVA2bQ"
     category_name        : "Announcements"
-    category_id          : "DIC_kwDOJQ5ld84CdR6a"
+    category_id          : "DIC_kwDOLVA2bc4CdW-2"
     discussion_term      : "pathname"
     reactions_enabled    : '1'
     theme                : "noborder_light"
+    input-position       : "top"
 
 # Build settings
 markdown: kramdown
