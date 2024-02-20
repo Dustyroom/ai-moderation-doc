@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT Runtime Usage"
-permalink: /runtime/
+title: "Usage"
+permalink: /usage/
 toc: true
 ---
 
