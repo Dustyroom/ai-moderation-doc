@@ -1,4 +1,4 @@
-# ChatGPT Script Generator
-- [https://chatgpt.dustyroom.com/](https://chatgpt.dustyroom.com/)
-- https://u3d.as/334o
+# AI Moderation Documentation
+- [https://ai-moderation.dustyroom.com/](https://ai-moderation.dustyroom.com/)
+- https://u3d.as/????
 - [Discord](https://discord.gg/298vcrVe)
